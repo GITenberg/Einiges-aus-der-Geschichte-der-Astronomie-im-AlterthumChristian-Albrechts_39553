@@ -1,0 +1,37 @@
+_repo: Einiges-aus-der-Geschichte-der-Astronomie-im-AlterthumChristian-Albrechts_39553
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39553-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Blass, Friedrich
+    aliases:
+    - Blass, Fridericus
+    - Blass, Friedrich Wilhelm
+    - Blass, F. (Friedrich)
+    birthdate: 1843
+    deathdate: 1907
+    gutenberg_agent_id: '40079'
+    url: http://www.gutenberg.org/2009/agents/40079
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Friedrich_Blass
+    - http://de.wikipedia.org/wiki/Friedrich_Blass
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2012-04-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39553'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Astronomy -- History'
+- !lcsh 'Astronomy, Ancient'
+- !lcc 'QB'
+title: "Einiges aus der Geschichte der Astronomie im Alterthum\r\nRede zur Feier des\
+  \ Geburtstags Sr. Maj. des Deutschen Kaisers Königs von Preussen Wilhelm I. gehalten\
+  \ an der Christian-Albrechts"
+url: http://www.gutenberg.org/ebooks/39553
